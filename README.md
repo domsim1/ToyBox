@@ -1,4 +1,4 @@
-# ToyBox
+# l-systems-ts
 
-A place to create small HTML canvas apps.
+Simple l-system app in ts.
 
